@@ -1,0 +1,17 @@
+{
+  "imoveis": [
+    {
+      "id": "1",
+      "titulo": "Casa Moderna",
+      "descricao": "Casa grande com piscina",
+      "preco": "850000",
+      "tipo": "Casa",
+      "localizacao": "Praia Grande - SP",
+      "endereco": "Praia Grande - SP",
+      "imagem": "https://example.com/casa.jpg",
+      "quartos": 3,
+      "banheiros": 2,
+      "criadoEm": "2024-12-02T10:00:00Z"
+    }
+  ]
+}
