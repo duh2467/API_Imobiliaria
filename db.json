@@ -47,7 +47,7 @@
         "cep": "11700-001"
       },
       "localizacao": "Praia Grande - SP",
-      "imagem": "https://exemplo.com/apartamento_praia.jpg",
+      "imagem": "https://vault.imob.online/u10840/buildings/photos/240293/yRIdBXu7lcJNHzG8cvUdElLS-whatsapp-image-2022-04-27-at-155613.jpg",
       "quartos": 2,
       "banheiros": 2,
       "area": 90,
@@ -76,7 +76,7 @@
         "cep": "11700-002"
       },
       "localizacao": "Praia Grande - SP",
-      "imagem": "https://exemplo.com/casa_mirim.jpg",
+      "imagem": "https://s3.amazonaws.com/static.nidoimovel.com.br/539fd53b59e3bb12d203f45a912eeaf2/imovel/MP/MP23025/8e3aa118555a70a00c7cdc6aab32fae3.jpg?1739714974",
       "quartos": 2,
       "banheiros": 1,
       "area": 80,
@@ -105,7 +105,7 @@
         "cep": "11700-003"
       },
       "localizacao": "Praia Grande - SP",
-      "imagem": "https://exemplo.com/kitnet_forte.jpg",
+      "imagem": "https://www.vrbo.com/pt-br/dicas-viagem/wp-content/uploads/7gJviHMfalyvl5jq9ndY7L/c8f8c793d42d342416d72f33278261bb/kitnet_para_alugar_em_praia_grande_Header.jpg",
       "quartos": 1,
       "banheiros": 1,
       "area": 35,
@@ -134,7 +134,7 @@
         "cep": "11700-004"
       },
       "localizacao": "Praia Grande - SP",
-      "imagem": "https://exemplo.com/cobertura_pg.jpg",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXmTAr1Ew4F01Agy0GnrktghgZrA_QkT2RVg&s",
       "quartos": 4,
       "banheiros": 5,
       "area": 250,
@@ -163,7 +163,7 @@
         "cep": "11700-005"
       },
       "localizacao": "Praia Grande - SP",
-      "imagem": "https://exemplo.com/sobrado_cond.jpg",
+      "imagem": "https://vault.imob.online/u1717/properties/photos/17256623/KVnIcEGwV8Qv4FbPHODVYPcD-whatsapp-image-2023-03-15-at-133437.jpg",
       "quartos": 2,
       "banheiros": 2,
       "area": 75,
@@ -192,7 +192,7 @@
         "cep": "11700-006"
       },
       "localizacao": "Praia Grande - SP",
-      "imagem": "https://exemplo.com/apto_ocian.jpg",
+      "imagem": "https://apartamento-com-vista-pro-mar-praia-grande-guilhermina.allsaopaulohotels.com/data/Images/OriginalPhoto/16313/1631311/1631311128/image-praia-grande-santos-apartamento-com-vista-pro-mar-praia-grande-guilhermina-10.JPEG",
       "quartos": 1,
       "banheiros": 1,
       "area": 55,
@@ -221,7 +221,7 @@
         "cep": "11700-007"
       },
       "localizacao": "Praia Grande - SP",
-      "imagem": "https://exemplo.com/casa_reformar.jpg",
+      "imagem": "https://saopauloantiga.com.br/wp-content/uploads/2025/03/ruasjosedobarreiro179.jpg",
       "quartos": 3,
       "banheiros": 1,
       "area": 120,
@@ -234,3 +234,4 @@
     }
   ]
 }
+
