@@ -4,25 +4,30 @@
       "id": "1",
       "titulo": "Casa Moderna",
       "descricao": "Casa grande com piscina",
-      "precoVenda": 850000,
-      "precoAluguel": null,
       "tipo": "Casa",
-      "negociacao": "Venda",
-      "localizacao": {
-        "estado": "SP",
-        "cidade": "Praia Grande",
-        "bairro": "Guilhermina",
+      "negocio": "Venda",
+      "valorVenda": "850000",
+      "valorAluguel": null,
+      "preco": "850000",
+      "endereco": {
         "rua": "Av. Brasil",
         "numero": "100",
-        "cep": "11700000"
+        "bairro": "Guilhermina",
+        "cidade": "Praia Grande",
+        "estado": "SP",
+        "cep": "11700-000"
       },
+      "localizacao": "Praia Grande - SP",
       "imagem": "https://i.ytimg.com/vi/bG_VJU2ZSDw/maxresdefault.jpg",
       "quartos": 3,
       "banheiros": 2,
-      "corretorId": "c1",
-      "status": "Aprovado",
+      "area": 150,
+      "corretorId": "admin123",
+      "corretorNome": "Administrador",
+      "corretorWhatsapp": "5513999999999",
+      "disponivel": true,
+      "aprovado": true,
       "criadoEm": "2024-12-02T10:00:00Z"
     }
   ]
-
 }
